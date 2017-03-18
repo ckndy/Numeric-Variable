@@ -12,4 +12,4 @@ total = price * quantity;
 
 // Get the element with an id of cost.
 var el = document.getElementById('cost');
-el.textContent = '$' + total;
+el.textContent = '£' + total;
